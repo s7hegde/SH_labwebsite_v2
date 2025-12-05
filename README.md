@@ -5,6 +5,6 @@
 
   # s7hegde's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[s7hegde.github.io/SH_labwebsite_v2](https://s7hegde.github.io/SH_labwebsite_v2)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
