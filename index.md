@@ -1,9 +1,11 @@
 ---
 ---
 
-# s7hegde's Website
+# We are tackling fundamental questions in cancer myeloid immunology
 
-An engaging 1-3 sentence description of your lab.
+TO DO: An engaging 1-3 sentence description of your lab.
+Starting Fall 2026 !
+Hiring !
 
 {% include section.html %}
 
