@@ -5,7 +5,7 @@ role: principal-investigator
 affiliation: XYZ
 links:
   home-page: XYZ
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-6319-0372
 ---
 
 Samarth Hegde ...
