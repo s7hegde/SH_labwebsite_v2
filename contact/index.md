@@ -7,27 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Hegde lab is situated in the Chanin Institute for Cancer Research on the campus of Albert Einstein College of Medicine. We are a proud member of the Montefiore Einstein Comprehensive Cancer Center (MECCC).\
+
+The best way to reach Dr. Hegde is by email.\ 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Email"
+  link="samarth.hegde[at]einsteinmed.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="Call"
+  link="+1"
 %}
 {%
   include button.html
-  type="address"
+  type="Our address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/9md273BJBq8vsPQq6"
 %}
 
 {% include section.html %}
