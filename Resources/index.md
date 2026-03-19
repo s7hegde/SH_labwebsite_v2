@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: resources
 nav:
   order: 5
   tooltip: Policies, Guidelines

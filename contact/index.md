@@ -80,7 +80,7 @@ Inspired by [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../
 Hegde Laboratory
 
 Albert Einstein College of Medicine\
-1300 Morris Park Ave\ 
+1300 Morris Park Ave\
 Chanin 510\
 Bronx, NY 10461
 
