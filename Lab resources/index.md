@@ -1,5 +1,5 @@
 ---
-title: Lab resources
+title: Resources
 nav:
   order: 5
   tooltip: Policies, Guidelines
