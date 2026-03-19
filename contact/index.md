@@ -25,7 +25,7 @@ The best way to reach Dr. Hegde is by email.
 %}
 {%
   include button.html
-  type="Address"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/9md273BJBq8vsPQq6"
 %}
