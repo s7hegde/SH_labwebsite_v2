@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-The Hegde lab is situated in the Chanin Institute for Cancer Research on the campus of Albert Einstein College of Medicine. We are a proud member of the Montefiore Einstein Comprehensive Cancer Center (MECCC).\
+The Hegde lab is situated in the Chanin Institute for Cancer Research on the campus of Albert Einstein College of Medicine. We are a proud member of the Montefiore Einstein Comprehensive Cancer Center (MECCC).
 
-The best way to reach Dr. Hegde is by email.\ 
+The best way to reach Dr. Hegde is by email.
 
 {%
   include button.html
