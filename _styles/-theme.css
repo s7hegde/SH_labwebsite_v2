@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Fira Mono", sans-serif;
-  --heading: "Fira Mono", sans-serif;
-  --body: "Fira Mono", sans-serif;
+  --title: "Google Sans Flex";
+  --heading: "Google Sans Flex";
+  --body: "Google Sans Flex Mono";
   --code: "Kode Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
