@@ -3,7 +3,7 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
+  --primary:  #104e8b;
   --secondary: #7dd3fc;
   --text: #000000;
   --background: #ffffff;
@@ -14,7 +14,7 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
+  --primary: #104e8b;
   --secondary: #075985;
   --text: #ffffff;
   --background: #181818;
@@ -38,13 +38,13 @@
   --xxl: 1.6rem;
 
   // font weights
-  --thin: 200;
-  --regular: 300;
-  --semi-bold: 400;
-  --bold: 500;
+  --thin: 00;
+  --regular: 400;
+  --semi-bold: 500;
+  --bold: 600;
 
   // text line spacing
-  --spacing: 1;
+  --spacing: 2;
   --compact: 1;
 
   // effects
