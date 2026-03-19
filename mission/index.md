@@ -30,3 +30,4 @@ Diversity is the bedrock of innovative research. In our lab, we welcome folks fr
 5) __*Science is Political*__\
 We firmly believe that science does not happen in a vacuum. It is our duty as scientists-in-training to be laser-focused advocates for why investment in biomedical research and medicine are invaluable to the global economy and quality of life. In this lab, we will work towards becoming better research ‘story-tellers’ but also effective communicators and action-takers. Serving our immediate community in the Bronx and being accountable to our stakeholders (public & foundation support) will be a core philosophy. 
 
+Please refer to our [Lab Policy page](Resources) for more details/guidelines.
