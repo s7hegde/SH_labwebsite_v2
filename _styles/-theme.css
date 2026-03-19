@@ -23,10 +23,10 @@
 }
 
 :root {
-  --title: "DM Mono", sans-serif;
-  --heading: "DM Mono", sans-serif;
-  --body: "DM Mono", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Fira Mono", sans-serif;
+  --heading: "Fira Mono", sans-serif;
+  --body: "Fira Mono", sans-serif;
+  --code: "Kode Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
