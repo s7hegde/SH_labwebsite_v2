@@ -1,8 +1,8 @@
 ---
 title: Lab vision
 nav:
-  order: 5
-  tooltip: Compact, Values, Expectations, and Agreements
+  order: 4
+  tooltip: Compact, Values
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Mission
