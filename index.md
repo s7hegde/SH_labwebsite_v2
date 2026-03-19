@@ -7,10 +7,10 @@ We are a group of scientists within the Montefiore Einstein Comprehensive Cancer
 
 Our Goals:
 
-* #### Decode WHAT is the epigenetic impact of a growing cancer on myeloid cells and their progenitors. 
-* #### Understand HOW consequential these molecular changes are to their dysfunction.
-* #### Determine IF and HOW we can pharmacologically target systemic myeloid dysfunction.
-* #### Study HOW therapy-associated damage rewires host myeloid response and influences cancer dormancy exit.
+* ##### Decode WHAT is the epigenetic impact of a growing cancer on myeloid cells and their progenitors. 
+* ##### Understand HOW consequential these molecular changes are to their dysfunction.
+* ##### Determine IF and HOW we can pharmacologically target systemic myeloid dysfunction.
+* ##### Study HOW therapy-associated damage rewires host myeloid response and influences cancer dormancy exit.
 
 We study how myeloid cells - chiefly monocytes and granulocytes - are co-opted by tumor inflammation to suppress anti-tumor immune responses, and how myeloid responses are distorted after rounds of genotoxic therapies (e.g.– chemotherapy, radiation). We have a particular interest in dissecting the early education of myeloid cell progenitors in bone marrow and/or spleen by inflammation. Combining high-dimensional longitudinal profiling of patient tissues with mechanistic studies in mouse models of cancer, our lab aims to understand how inflammatory cues alter the genetic, epigenetic, and metabolic wiring within myeloid cells and their progenitors (see Hegde S. et al. Immunity 2021). Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the next generation of myeloid cell-targeted immunotherapies for solid tumors such as pancreatic cancer. 
 

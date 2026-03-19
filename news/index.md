@@ -11,8 +11,6 @@ This page contains news and updates from the lab and their collaborators.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
 {% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
