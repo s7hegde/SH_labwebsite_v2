@@ -1,14 +1,14 @@
 # site properties and page defaults
 title: Lab of Reactive Myeloid Cell Biology
-subtitle: Part of Cancer Dormancy Institute at XYZ
-description: Non-institutional website for the laboratory of Reactive Myeloid Cell Biology, headed by Dr. Samarth Hegde, at Montefiore Einstein Comprehensive Cancer Center (MECCC), Department of Developmental and Molecular Biology
+subtitle: Part of Cancer Dormancy Institute, Montefiore Einstein Comprehensive Cancer Center (MECCC)
+description: Non-institutional website for the laboratory of Reactive Myeloid Cell Biology, headed by Dr. Samarth Hegde, Department of Developmental and Molecular Biology
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: 
+  email: samarth.hegde@einsteinmed.edu
   orcid: 0000-0001-6319-0372
   google-scholar: 1S1yqpAAAAAJ&hl=en
   github: s7hegde
