@@ -27,10 +27,11 @@
   --heading: "Google Sans Flex";
   --body: "Google Sans Flex Mono";
   --code: "Kode Mono", monospace;
+  --medium: 1rem;
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
-  --thin: 00;
+  --thin: 200;
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
