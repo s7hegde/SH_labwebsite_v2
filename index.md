@@ -16,6 +16,14 @@ We study how myeloid cells - chiefly monocytes and granulocytes - are co-opted b
 
 Research in the Hegde lab spans themes of hematopoietic stem cell and progenitor biology, systems physiology, stress-associated proteostasis, and tumor microenvironment biology.  For more information on such research, please see our latest publications: [Hegde S. et al., Nature 2025](https://doi.org/10.1038/s41586-025-09493-y);[LaMarche N.M. et al., Nature 2024](https://doi.org/10.1038/s41586-023-06797-9).
 
+{%
+  include figure.html
+  image="images/schematic_science/_landing_center schema.png"
+  caption="Role of myelopoiesis in various aspects of cancer inflammation"
+  link="science"
+  width="400px"
+%}
+
 Bridging different facets of systems pathology, immunology, and epigenetics is one of our core goals. This is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds bring different perspectives and complementary approaches to advance our goals. If this rings true, [reach out!](./contact/)!
 
 ## We are recruiting at all levels, especially associates/technicians and students.
