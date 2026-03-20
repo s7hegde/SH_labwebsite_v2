@@ -18,9 +18,9 @@ Research in the Hegde lab spans themes of hematopoietic stem cell and progenitor
 
 {%
   include figure.html
-  image="images/schematic_science/_landing_center schema.png"
+  image='images/schematic_science/_landing_schema.png'
   caption="Role of myelopoiesis in various aspects of cancer inflammation"
-  link="science"
+  link="research"
   width="400px"
 %}
 
