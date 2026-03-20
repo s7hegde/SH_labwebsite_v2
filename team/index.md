@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet
 
 {% include section.html %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 # Inside and Outside Lab
 

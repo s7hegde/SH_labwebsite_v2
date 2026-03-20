@@ -5,7 +5,7 @@ nav:
   tooltip: Published and preprinted works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research Areas
+# {% include icon.html icon="fa-solid fa-disease" %}Research Areas
 
 In the laboratory, we are deeply passionate about many different aspects of how host myeloid cells respond to and are shaped by inflammation. While our major focus is in pancreatic and lung cancer, we are extremely interested in defining shared myeloid cell biology across disease contexts (e.g.– sepsis, fibrosis, acute radiation damage).  
 
@@ -60,13 +60,14 @@ We are constantly evolving in our thinking about myeloid immunity, and our proje
 
 {% include section.html %}
 
-## Highlighted
+
+## {% include icon.html icon="fa-solid fa-star" %}Highlighted
 
 {% include citation.html lookup="doi:10.1038/s41586-025-09493-y" style="rich" %}
 
 {% include section.html %}
 
-## All
+## {% include icon.html icon="fa-solid fa-table-list" %}All
 
 {% include search-box.html %}
 
