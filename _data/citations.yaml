@@ -1,2 +1,912 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-025-09493-y
+  title: "Myeloid\_progenitor dysregulation fuels immunosuppressive macrophages in\
+    \ tumours"
+  authors:
+  - Samarth Hegde
+  - Bruno Giotti
+  - Brian Y. Soong
+  - Laszlo Halasz
+  - Jessica Le Berichel
+  - Maximilian M. Schaefer
+  - Benoit Kloeckner
+  - "Rapha\xEBl Mattiuz"
+  - Matthew D. Park
+  - Assaf Magen
+  - Adam Marks
+  - Meriem Belabed
+  - Pauline Hamon
+  - Theodore Chin
+  - Leanna Troncoso
+  - Juliana J. Lee
+  - Kaili Fan
+  - Dughan Ahimovic
+  - Michael J. Bale
+  - Kai Nie
+  - Grace Chung
+  - "Darwin D\u2019souza"
+  - Krista Angeliadis
+  - Seunghee Kim-Schulze
+  - Raja M. Flores
+  - Andrew J. Kaufman
+  - Florent Ginhoux
+  - Jason D. Buenrostro
+  - Steven Z. Josefowicz
+  - Alexander M. Tsankov
+  - Thomas U. Marron
+  - Sai Ma
+  - Brian D. Brown
+  - Miriam Merad
+  publisher: Nature
+  date: '2025-09-10'
+  link: https://doi.org/hbs7px
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-55424-2
+  title: Distinct immune cell infiltration patterns in pancreatic ductal adenocarcinoma
+    (PDAC) exhibit divergent immune cell selection and immunosuppressive mechanisms
+  authors:
+  - Shivan Sivakumar
+  - Ashwin Jainarayanan
+  - Edward Arbe-Barnes
+  - Piyush Kumar Sharma
+  - Maire Ni Leathlobhair
+  - Sakina Amin
+  - David J. Reiss
+  - Lara Heij
+  - Samarth Hegde
+  - Assaf Magen
+  - Felicia Tucci
+  - Bo Sun
+  - Shihong Wu
+  - Nithishwer Mouroug Anand
+  - Hubert Slawinski
+  - Santiago Revale
+  - Isar Nassiri
+  - Jonathon Webber
+  - Gerard D. Hoeltzel
+  - Adam E. Frampton
+  - Georg Wiltberger
+  - Ulf Neumann
+  - Philip Charlton
+  - Laura Spiers
+  - Tim Elliott
+  - Maria Wang
+  - Suzana Couto
+  - Thomas Lila
+  - Pallavur V. Sivakumar
+  - Alexander V. Ratushny
+  - Mark R. Middleton
+  - Dimitra Peppa
+  - Benjamin Fairfax
+  - Miriam Merad
+  - Michael L. Dustin
+  - Enas Abu-Shah
+  - Rachael Bashford-Rogers
+  publisher: Nature Communications
+  date: '2025-02-06'
+  link: https://doi.org/g839gr
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.06.24.600383
+  title: Myeloid progenitor dysregulation fuels immunosuppressive macrophages in tumors
+  authors:
+  - Samarth Hegde
+  - Bruno Giotti
+  - Brian Y. Soong
+  - Laszlo Halasz
+  - Jessica Le Berichel
+  - Assaf Magen
+  - Benoit Kloeckner
+  - "Rapha\xEBl Mattiuz"
+  - Matthew D. Park
+  - Adam Marks
+  - Meriem Belabed
+  - Pauline Hamon
+  - Theodore Chin
+  - Leanna Troncoso
+  - Juliana J. Lee
+  - Dughan Ahimovic
+  - Michael Bale
+  - Grace Chung
+  - "Darwin D\u2019souza"
+  - Krista Angeliadis
+  - Travis Dawson
+  - Seunghee Kim-Schulze
+  - Raja M. Flores
+  - Andrew J. Kaufman
+  - Florent Ginhoux
+  - Steven Z. Josefowicz
+  - Sai Ma
+  - Alexander M. Tsankov
+  - Thomas U. Marron
+  - Brian D. Brown
+  - Miriam Merad
+  publisher: openRxiv
+  date: '2024-06-28'
+  link: https://doi.org/hbs7pz
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-023-06797-9
+  title: An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis
+  authors:
+  - Nelson M. LaMarche
+  - Samarth Hegde
+  - Matthew D. Park
+  - Barbara B. Maier
+  - Leanna Troncoso
+  - Jessica Le Berichel
+  - Pauline Hamon
+  - Meriem Belabed
+  - "Rapha\xEBl Mattiuz"
+  - Clotilde Hennequin
+  - Theodore Chin
+  - Amanda M. Reid
+  - "Iv\xE1n Reyes-Torres"
+  - Erika Nemeth
+  - Ruiyuan Zhang
+  - Oakley C. Olson
+  - Deborah B. Doroshow
+  - Nicholas C. Rohs
+  - Jorge E. Gomez
+  - Rajwanth Veluswamy
+  - Nicole Hall
+  - Nicholas Venturini
+  - Florent Ginhoux
+  - Zhaoyuan Liu
+  - Mark Buckup
+  - Igor Figueiredo
+  - Vladimir Roudko
+  - Kensuke Miyake
+  - Hajime Karasuyama
+  - Edgar Gonzalez-Kozlova
+  - Sacha Gnjatic
+  - "Emmanuelle Passegu\xE9"
+  - Seunghee Kim-Schulze
+  - Brian D. Brown
+  - Fred R. Hirsch
+  - Brian S. Kim
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Nature
+  date: '2023-12-06'
+  link: https://doi.org/gs8wn2
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcell.2024.1462915
+  title: 'Editorial: Towards a more faithful ex vivo modelling of tumor-immune-stroma
+    communication'
+  authors:
+  - Samarth Hegde
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2024-08-13'
+  link: https://doi.org/hbs7p2
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adn0327
+  title: "Hematopoietic aging promotes cancer by fueling IL-1\u237A\u2013driven emergency\
+    \ myelopoiesis"
+  authors:
+  - Matthew D. Park
+  - Jessica Le Berichel
+  - Pauline Hamon
+  - C. Matthias Wilk
+  - Meriem Belabed
+  - Nader Yatim
+  - Alexis Saffon
+  - Jesse Boumelha
+  - "Chiara Falcomat\xE0"
+  - Alexander Tepper
+  - Samarth Hegde
+  - "Rapha\xEBl Mattiuz"
+  - Brian Y. Soong
+  - Nelson M. LaMarche
+  - Frederika Rentzeperis
+  - Leanna Troncoso
+  - Laszlo Halasz
+  - Clotilde Hennequin
+  - Theodore Chin
+  - Earnest P. Chen
+  - Amanda M. Reid
+  - Matthew Su
+  - Ashley Reid Cahn
+  - Laura L. Koekkoek
+  - Nicholas Venturini
+  - Shira Wood-isenberg
+  - "Darwin D\u2019souza"
+  - Rachel Chen
+  - Travis Dawson
+  - Kai Nie
+  - Zhihong Chen
+  - Seunghee Kim-Schulze
+  - Maria Casanova-Acebes
+  - Filip K. Swirski
+  - Julian Downward
+  - Nicolas Vabret
+  - Brian D. Brown
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Science
+  date: '2024-10-25'
+  link: https://doi.org/g8zhdj
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.09.09.610361
+  title: Informing biologically relevant signal from spatial transcriptomic data
+  authors:
+  - Emir Radkevich
+  - Darwin D'Souza
+  - Raphael Mattiuz
+  - Raphael Merand
+  - Rachel Chen
+  - Jarod Morgenroth-Rebin
+  - Krista Angeliadis
+  - Daniella Nelson
+  - Anis Kara
+  - Travis Dawson
+  - Igor De Souza
+  - Kai Nie
+  - Pauline Hamon
+  - Samarth Hegde
+  - Jesse Boumelha
+  - Rachel Brody
+  - Sinem Ozbey
+  - Clotilde Hennequin
+  - Di Feng
+  - Jie Dai
+  - Edgar Gonzalez-Kozlova
+  - Zhihong Chen
+  - Seunghee Kim-Schulze
+  - Sacha Gnjatic
+  - Miriam Merad
+  - Vladimir Roudko
+  publisher: openRxiv
+  date: '2024-09-13'
+  link: https://doi.org/hbs7p3
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.14.585048
+  title: Single cell view of tumor microenvironment gradients in pleural mesothelioma
+  authors:
+  - Bruno Giotti
+  - Komal Dolasia
+  - William Zhao
+  - Peiwen Cai
+  - Robert Sweeney
+  - Elliot Merritt
+  - Evgeny Kiner
+  - Grace Kim
+  - Atharva Bhagwat
+  - Samarth Hegde
+  - Bailey Fitzgerald
+  - Sanjana Shroff
+  - Travis Dawson
+  - Monica Garcia-barros
+  - Jamshid Abdul-ghafar
+  - Rachel Chen
+  - Sacha Gnjatic
+  - Alan Soto
+  - Rachel Brody
+  - Seunghee Kim-Schulze
+  - Zhihong Chen
+  - Kristin G. Beaumont
+  - Miriam Merad
+  - Raja Flores
+  - Robert Sebra
+  - Amir Horowitz
+  - Thomas U Marron
+  - Anna Tocheva
+  - Andrea Wolf
+  - Alexander M. Tsankov
+  publisher: openRxiv
+  date: '2024-03-15'
+  link: https://doi.org/hbs7p4
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-23-0017
+  title: Single-Cell View of Tumor Microenvironment Gradients in Pleural Mesothelioma
+  authors:
+  - Bruno Giotti
+  - Komal Dolasia
+  - William Zhao
+  - Peiwen Cai
+  - Robert Sweeney
+  - Elliot Merritt
+  - Evgeny Kiner
+  - Grace S. Kim
+  - Atharva Bhagwat
+  - Thinh Nguyen
+  - Samarth Hegde
+  - Bailey G. Fitzgerald
+  - Sanjana Shroff
+  - Travis Dawson
+  - Monica Garcia-Barros
+  - Jamshid Abdul-Ghafar
+  - Rachel Chen
+  - Sacha Gnjatic
+  - Alan Soto
+  - Rachel Brody
+  - Seunghee Kim-Schulze
+  - Zhihong Chen
+  - Kristin G. Beaumont
+  - Miriam Merad
+  - Raja M. Flores
+  - Robert P. Sebra
+  - Amir Horowitz
+  - Thomas U. Marron
+  - Anna Tocheva
+  - Andrea Wolf
+  - Alexander M. Tsankov
+  publisher: Cancer Discovery
+  date: '2024-07-03'
+  link: https://doi.org/hbs7p5
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41591-023-02345-0
+  title: "Intratumoral dendritic cell\u2013CD4+ T helper cell niches enable CD8+ T\
+    \ cell differentiation following PD-1 blockade in hepatocellular carcinoma"
+  authors:
+  - Assaf Magen
+  - Pauline Hamon
+  - Nathalie Fiaschi
+  - Brian Y. Soong
+  - Matthew D. Park
+  - "Rapha\xEBl Mattiuz"
+  - Etienne Humblin
+  - Leanna Troncoso
+  - "Darwin D\u2019souza"
+  - Travis Dawson
+  - Joel Kim
+  - Steven Hamel
+  - Mark Buckup
+  - Christie Chang
+  - Alexandra Tabachnikova
+  - Hara Schwartz
+  - Nausicaa Malissen
+  - Yonit Lavin
+  - Alessandra Soares-Schanoski
+  - Bruno Giotti
+  - Samarth Hegde
+  - Giorgio Ioannou
+  - Edgar Gonzalez-Kozlova
+  - Clotilde Hennequin
+  - Jessica Le Berichel
+  - Zhen Zhao
+  - Stephen C. Ward
+  - Isabel Fiel
+  - Baijun Kou
+  - Michael Dobosz
+  - Lianjie Li
+  - Christina Adler
+  - Min Ni
+  - Yi Wei
+  - Wei Wang
+  - Gurinder S. Atwal
+  - Kunal Kundu
+  - Kamil J. Cygan
+  - Alexander M. Tsankov
+  - Adeeb Rahman
+  - Colles Price
+  - Nicolas Fernandez
+  - Jiang He
+  - Namita T. Gupta
+  - Seunghee Kim-Schulze
+  - Sacha Gnjatic
+  - Ephraim Kenigsberg
+  - Raquel P. Deering
+  - Myron Schwartz
+  - Thomas U. Marron
+  - Gavin Thurston
+  - Alice O. Kamphorst
+  - Miriam Merad
+  publisher: Nature Medicine
+  date: '2023-06-01'
+  link: https://doi.org/g7vwqx
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1146/annurev-cancerbio-061521-085949
+  title: On the Biology and Therapeutic Modulation of Macrophages and Dendritic Cells
+    in Cancer
+  authors:
+  - Matthew D. Park
+  - Meriem Belabed
+  - Steven T. Chen
+  - Pauline Hamon
+  - Samarth Hegde
+  - "Rapha\xEBl Mattiuz"
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Annual Review of Cancer Biology
+  date: '2023-04-11'
+  link: https://doi.org/hbs7p6
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.31.555730
+  title: Single-cell immune multi-omics and repertoire analyses in pancreatic ductal
+    adenocarcinoma reveal differential immunosuppressive mechanisms within different
+    tumour microenvironments
+  authors:
+  - Shivan Sivakumar
+  - Ashwin Jainarayanan
+  - Edward Arbe-Barnes
+  - Piyush Kumar Sharma
+  - Maire Ni Leathlobhair
+  - Sakina Amin
+  - Lara Heij
+  - Samarth Hegde
+  - Assaf Magen
+  - Felicia Tucci
+  - Bo Sun
+  - Shihong Wu
+  - Nithishwer Mouroug Anand
+  - Hubert Slawinski
+  - Santiago Revale
+  - Isar Nassiri
+  - Jonathon Webber
+  - Adam Frampton
+  - Georg Wiltberger
+  - Ulf Neumann
+  - Philip Charlton
+  - Laura Spiers
+  - Tim Elliott
+  - Pallavur V. Sivakumar
+  - Alexander V. Ratushny
+  - Mark Middleton
+  - Dimitra Peppa
+  - Benjamin Fairfax
+  - Miriam Merad
+  - Michael L. Dustin
+  - Enas Abu-Shah
+  - Rachael Bashford-Rogers
+  publisher: openRxiv
+  date: '2023-09-01'
+  link: https://doi.org/hbs7p7
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41590-023-01475-4
+  title: TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer
+  authors:
+  - Matthew D. Park
+  - Ivan Reyes-Torres
+  - Jessica LeBerichel
+  - Pauline Hamon
+  - Nelson M. LaMarche
+  - Samarth Hegde
+  - Meriem Belabed
+  - Leanna Troncoso
+  - John A. Grout
+  - Assaf Magen
+  - Etienne Humblin
+  - Achuth Nair
+  - Martina Molgora
+  - Jinchao Hou
+  - Jenna H. Newman
+  - Adam M. Farkas
+  - Andrew M. Leader
+  - Travis Dawson
+  - "Darwin D\u2019Souza"
+  - Steven Hamel
+  - Alfonso Rodriguez Sanchez-Paulete
+  - Barbara Maier
+  - Nina Bhardwaj
+  - Jerome C. Martin
+  - Alice O. Kamphorst
+  - Ephraim Kenigsberg
+  - Maria Casanova-Acebes
+  - Amir Horowitz
+  - Brian D. Brown
+  - Lucas Ferrari De Andrade
+  - Marco Colonna
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Nature Immunology
+  date: '2023-04-20'
+  link: https://doi.org/gr7mqr
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.06.22.497216
+  title: Intratumoral mregDC and CXCL13 T helper niches enable local differentiation
+    of CD8 T cells following PD-1 blockade
+  authors:
+  - Assaf Magen
+  - Pauline Hamon
+  - Nathalie Fiaschi
+  - Leanna Troncoso
+  - Etienne Humblin
+  - "Darwin D\u2019souza"
+  - Travis Dawson
+  - Matthew D. Park
+  - Joel Kim
+  - Steven Hamel
+  - Mark Buckup
+  - Christie Chang
+  - Alexandra Tabachnikova
+  - Hara Schwartz
+  - Nausicaa Malissen
+  - Yonit Lavin
+  - Alessandra Soares-Schanoski
+  - Bruno Giotti
+  - Samarth Hegde
+  - "Rapha\xEBl Mattiuz"
+  - Clotilde Hennequin
+  - Jessica Le Berichel
+  - Zhen Zhao
+  - Stephen Ward
+  - Isabel Fiel
+  - Colles Price
+  - Nicolas Fernandez
+  - Jiang He
+  - Baijun Kou
+  - Michael Dobosz
+  - Lianjie Li
+  - Christina Adler
+  - Min Ni
+  - Yi Wei
+  - Wei Wang
+  - Namita T. Gupta
+  - Kunal Kundu
+  - Kamil Cygan
+  - Raquel P. Deering
+  - Alex Tsankov
+  - Seunghee Kim-Schulze
+  - Sacha Gnjatic
+  - Ephraim Kenigsberg
+  - Myron Schwartz
+  - Thomas U. Marron
+  - Gavin Thurston
+  - Alice O. Kamphorst
+  - Miriam Merad
+  publisher: openRxiv
+  date: '2022-06-26'
+  link: https://doi.org/hbs7p8
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13193-020-01192-6
+  title: Pancreatic Cancer Immuno-oncology in the Era of Precision Medicine
+  authors:
+  - Samarth Hegde
+  publisher: Indian Journal of Surgical Oncology
+  date: '2020-08-25'
+  link: https://doi.org/grw4fj
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2021.04.004
+  title: 'MDSC: Markers, development, states, and unaddressed complexity'
+  authors:
+  - Samarth Hegde
+  - Andrew M. Leader
+  - Miriam Merad
+  publisher: Immunity
+  date: '2021-05-01'
+  link: https://doi.org/gp4w9x
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2020.05.002
+  title: 'Immunology of COVID-19: Current State of the Science'
+  authors:
+  - Nicolas Vabret
+  - Graham J. Britton
+  - Conor Gruber
+  - Samarth Hegde
+  - Joel Kim
+  - Maria Kuksin
+  - Rachel Levantovsky
+  - Louise Malle
+  - Alvaro Moreira
+  - Matthew D. Park
+  - Luisanna Pia
+  - Emma Risson
+  - Miriam Saffern
+  - "B\xE9reng\xE8re Salom\xE9"
+  - Myvizhi Esai Selvan
+  - Matthew P. Spindler
+  - Jessica Tan
+  - Verena van der Heide
+  - Jill K. Gregory
+  - Konstantina Alexandropoulos
+  - Nina Bhardwaj
+  - Brian D. Brown
+  - Benjamin Greenbaum
+  - "Zeynep H. G\xFCm\xFC\u015F"
+  - Dirk Homann
+  - Amir Horowitz
+  - Alice O. Kamphorst
+  - Maria A. Curotto de Lafaille
+  - Saurabh Mehandru
+  - Miriam Merad
+  - Robert M. Samstein
+  - Manasi Agrawal
+  - Mark Aleynick
+  - Meriem Belabed
+  - Matthew Brown
+  - Maria Casanova-Acebes
+  - Jovani Catalan
+  - Monica Centa
+  - Andrew Charap
+  - Andrew Chan
+  - Steven T. Chen
+  - Jonathan Chung
+  - Cansu Cimen Bozkus
+  - Evan Cody
+  - Francesca Cossarini
+  - Erica Dalla
+  - Nicolas Fernandez
+  - John Grout
+  - Dan Fu Ruan
+  - Pauline Hamon
+  - Etienne Humblin
+  - Divya Jha
+  - Julia Kodysh
+  - Andrew Leader
+  - Matthew Lin
+  - Katherine Lindblad
+  - Daniel Lozano-Ojalvo
+  - Gabrielle Lubitz
+  - Assaf Magen
+  - Zafar Mahmood
+  - Gustavo Martinez-Delgado
+  - Jaime Mateus-Tique
+  - Elliot Meritt
+  - Chang Moon
+  - Justine Noel
+  - "Tim O\u2019Donnell"
+  - Miyo Ota
+  - Tamar Plitt
+  - Venu Pothula
+  - Jamie Redes
+  - Ivan Reyes Torres
+  - Mark Roberto
+  - Alfonso R. Sanchez-Paulete
+  - Joan Shang
+  - Alessandra Soares Schanoski
+  - Maria Suprun
+  - Michelle Tran
+  - Natalie Vaninov
+  - C. Matthias Wilk
+  - Julio Aguirre-Ghiso
+  - Dusan Bogunovic
+  - Judy Cho
+  - Jeremiah Faith
+  - Emilie Grasset
+  - Peter Heeger
+  - Ephraim Kenigsberg
+  - Florian Krammer
+  - Uri Laserson
+  publisher: Immunity
+  date: '2020-06-01'
+  link: https://doi.org/ggt54g
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gutjnl-2018-317424
+  title: Development of resistance to FAK inhibition in pancreatic cancer is linked
+    to stromal depletion
+  authors:
+  - Hong Jiang
+  - Xiuting Liu
+  - Brett L Knolhoff
+  - Samarth Hegde
+  - Kyung Bae Lee
+  - Hongmei Jiang
+  - Ryan C Fields
+  - Jonathan A Pachter
+  - Kian-Huat Lim
+  - David G DeNardo
+  publisher: Gut
+  date: '2019-05-10'
+  link: https://doi.org/gk54r7
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41577-020-0319-0
+  title: Advancing scientific knowledge in times of pandemics
+  authors:
+  - Nicolas Vabret
+  - Robert Samstein
+  - Nicolas Fernandez
+  - Miriam Merad
+  publisher: Nature Reviews Immunology
+  date: '2020-04-23'
+  link: https://doi.org/ghjs79
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccell.2020.02.008
+  title: Dendritic Cell Paucity Leads to Dysfunctional Immune Surveillance in Pancreatic
+    Cancer
+  authors:
+  - Samarth Hegde
+  - Varintra E. Krisnawan
+  - Brett H. Herzog
+  - Chong Zuo
+  - Marcus A. Breden
+  - Brett L. Knolhoff
+  - Graham D. Hogg
+  - Jack P. Tang
+  - John M. Baer
+  - Cedric Mpoy
+  - Kyung Bae Lee
+  - Katherine A. Alexander
+  - Buck E. Rogers
+  - Kenneth M. Murphy
+  - William G. Hawkins
+  - Ryan C. Fields
+  - Carl J. DeSelm
+  - Julie K. Schwarz
+  - David G. DeNardo
+  publisher: Cancer Cell
+  date: '2020-03-01'
+  link: https://doi.org/ggwj4b
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41577-020-0324-3
+  title: Does asthma make COVID-19 worse?
+  authors:
+  - Samarth Hegde
+  publisher: Nature Reviews Immunology
+  date: '2020-04-28'
+  link: https://doi.org/hbs7p9
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41577-020-0361-y
+  title: Many paths to COVID-19 lymphocyte dysfunction
+  authors:
+  - Samarth Hegde
+  publisher: Nature Reviews Immunology
+  date: '2020-06-05'
+  link: https://doi.org/hbs7qb
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.aau9240
+  title: Agonism of CD11b reprograms innate immunity to sensitize pancreatic cancer
+    to immunotherapies
+  authors:
+  - Roheena Z. Panni
+  - John M. Herndon
+  - Chong Zuo
+  - Samarth Hegde
+  - Graham D. Hogg
+  - Brett L. Knolhoff
+  - Marcus A. Breden
+  - Xiaobo Li
+  - Varintra E. Krisnawan
+  - Samia Q. Khan
+  - Julie K. Schwarz
+  - Buck E. Rogers
+  - Ryan C. Fields
+  - William G. Hawkins
+  - Vineet Gupta
+  - David G. DeNardo
+  publisher: Science Translational Medicine
+  date: '2019-07-03'
+  link: https://doi.org/gf7tsg
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00262-017-2003-1
+  title: Tumor-associated fibrosis as a regulator of tumor immunity and response to
+    immunotherapy
+  authors:
+  - Hong Jiang
+  - Samarth Hegde
+  - David G. DeNardo
+  publisher: Cancer Immunology, Immunotherapy
+  date: '2017-04-27'
+  link: https://doi.org/gbpw4s
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2016.08.062
+  title: "Sterile Inflammation Enhances ECM Degradation in Integrin \u03B21 KO Embryonic\
+    \ Skin"
+  authors:
+  - Ambika S. Kurbet
+  - Samarth Hegde
+  - Oindrila Bhattacharjee
+  - Srujan Marepally
+  - Praveen K. Vemula
+  - Srikala Raghavan
+  publisher: Cell Reports
+  date: '2016-09-01'
+  link: https://doi.org/hbs7qc
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nm.4123
+  title: Targeting focal adhesion kinase renders pancreatic cancers responsive to
+    checkpoint immunotherapy
+  authors:
+  - Hong Jiang
+  - Samarth Hegde
+  - Brett L Knolhoff
+  - Yu Zhu
+  - John M Herndon
+  - Melissa A Meyer
+  - Timothy M Nywening
+  - William G Hawkins
+  - Irina M Shapiro
+  - David T Weaver
+  - Jonathan A Pachter
+  - Andrea Wang-Gillam
+  - David G DeNardo
+  publisher: Nature Medicine
+  date: '2016-07-04'
+  link: https://doi.org/f83nqn
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3109/15419061.2013.854334
+  title: 'A Skin-depth Analysis of Integrins: Role of the Integrin Network in Health
+    and Disease'
+  authors:
+  - Samarth Hegde
+  - Srikala Raghavan
+  publisher: Cell Communication &amp; Adhesion
+  date: '2013-11-08'
+  link: https://doi.org/hbs7qd
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/0889311X.2013.771633
+  title: Low-barrier hydrogen bonds in proteins
+  authors:
+  - M. V. Hosur
+  - R. Chitra
+  - Samarth Hegde
+  - R. R. Choudhury
+  - Amit Das
+  - R. V. Hosur
+  publisher: Crystallography Reviews
+  date: '2013-01-01'
+  link: https://doi.org/hbs7qf
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
