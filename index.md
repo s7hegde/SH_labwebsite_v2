@@ -18,10 +18,10 @@ Research in the Hegde lab spans themes of hematopoietic stem cell and progenitor
 
 {%
   include figure.html
-  image='images/schematic_science/_landing_schema.png'
+  image='images/schematic_science/0_landing_schema.jpg' 
   caption="Role of myelopoiesis in various aspects of cancer inflammation"
   link="research"
-  width="400px"
+  width="800px"
 %}
 
 Bridging different facets of systems pathology, immunology, and epigenetics is one of our core goals. This is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds bring different perspectives and complementary approaches to advance our goals. If this rings true, [reach out!](./contact/)!
