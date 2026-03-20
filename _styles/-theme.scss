@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary:  #104e8b;
-  --secondary: #7dd3fc;
+  --primary:  #AB0215;
+  --secondary: #AC8B92;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -12,13 +12,26 @@
   --gray: #808080;
   --dark-gray: #404040;
   --overlay: #00000020;
+// https://coolors.co/palette/ab0215-ebc0b0-ac8b92-f3f4ef-020202
+/* Changed this: */
+  //--primary:  #104e8b;
+  //--secondary: #7dd3fc;
+  //--text: #000000;
+  //--background: #ffffff;
+  //--background-alt: #fafafa;
+  //--light-gray: #e0e0e0;
+  //--gray: #808080;
+  //--dark-gray: #404040;
+  //--overlay: #00000020;
+    
+
 }
 [data-dark="true"] {
-  --primary: #104e8b;
-  --secondary: #075985;
+  --primary: #AB0215;
+  --secondary: #EBC0B0;
   --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
+  --background: #000000;
+  --background-alt: #414141;
   --light-gray: #404040;
   --gray: #808080;
   --dark-gray: #b0b0b0;

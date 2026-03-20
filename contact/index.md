@@ -19,12 +19,7 @@ The best way to reach Dr. Hegde is by email.
   text="Email"
   link="samarth.hegde[at]einsteinmed.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="Call"
-  link="+1"
-%}
+
 {%
   include button.html
   type="address"
@@ -44,6 +39,11 @@ All first-year Ph.D. graduate students are accepted into the [Graduate Division 
 
 We also welcome visiting international PhD students. Contact Dr. Hegde directly as above for more information.
 
+{%
+  include section.html
+  dark=false
+  size=full
+%}
 # ARE YOU A POSTDOC OR TECHNICIAN APPLICANT?
 We are on the lookout for post-docs and research associates/technicians interested at the interface of cancer biology and immunology, with the career goals in academia or developing transition to biotech/industry or further schooling. If you are interested, please reach out as follows:
 

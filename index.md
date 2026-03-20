@@ -1,7 +1,7 @@
 ---
 ---
 
-# We are tackling fundamental questions in cancer myeloid immunology !
+# Tackling fundamental questions in cancer myeloid immunology !
 
 We are a group of scientists within the Montefiore Einstein Comprehensive Cancer Center (MECCC) interested in dissecting the long-range communication between cancer inflammation and sites of hematopoiesis i.e. blood-cell formation in bone marrow and the spleen.
 
