@@ -159,30 +159,20 @@ paper:
   text: Paper
   tooltip: Paper
 
-book:
+review:
   icon: fa-solid fa-book
-  text: Book
-  tooltip: Book
+  text: Review
+  tooltip: Review
 
 article:
   icon: fa-solid fa-newspaper
-  text: Article
-  tooltip: Article
-
-journal:
-  icon: fa-regular fa-newspaper
-  text: Journal
-  tooltip: Journal
+  text: article
+  tooltip: article
 
 preprint:
   icon: fa-regular fa-eye
   text: Preprint
   tooltip: Preprint
-
-unpublished:
-  icon: fa-regular fa-eye
-  text: Unpublished
-  tooltip: Unpublished
 
 manubot:
   icon: manubot.svg

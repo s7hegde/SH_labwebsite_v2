@@ -56,7 +56,7 @@ If this rings true, [**reach out!**](./contact/)!
 
 {% capture text %}
 
-The Hegde lab is at the forefront of myeloid immunology in cancer. 
+The Hegde lab is at the forefront of cancer immunology, using traditional immunology and cutting edge -omics techniques to study myeloid cell dysregulation. 
 {%
   include button.html
   link="research"
@@ -100,7 +100,7 @@ Follow along for news and breakthroughs from the lab !
 
 {% capture text %}
 
-The team that makes all the cool work happen !
+We are a team of researchers from various backgrounds that want to push the frontier of myeloid immunology in inflammation. 
 {%
   include button.html
   link="team"

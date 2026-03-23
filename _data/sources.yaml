@@ -58,7 +58,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2025_NatComm.jpg"
   type: article
   tags: 
     - transcriptomics
@@ -74,12 +74,27 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2025_Nature_IL4.jpg"
   type: article
   tags: 
    - lung cancer
    - bone marrow
    - transcriptomics
+- id: doi:10.1158/2159-8290.CD-23-0017
+  title: Single-Cell View of Tumor Microenvironment Gradients in Pleural Mesothelioma
+  publisher: Cancer Discovery
+  date: '2024-07-03'
+  link: https://doi.org/hbs7p5
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: "./images/pictures_science/2025_CD.jpg"
+  type: article
+  tags: 
+   - lung cancer
+   - transcriptomics
+   - collaboration
 
 - id: doi:10.1126/science.adn0327
   title: "Hematopoietic aging promotes cancer by fueling IL-1\u237A\u2013driven emergency\
@@ -91,7 +106,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2025_Science_IL1a.jpg"
   type: article
   tags: 
    - lung cancer
@@ -109,7 +124,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2023_NM.jpg"
   type: article
   tags: 
    - liver cancer
@@ -136,7 +151,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2023_ARCB.jpg" 
   type: review
   tags:
 
@@ -149,7 +164,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2023_NI_Trem2.jpg"
   type: article
   tags: 
    - lung cancer
@@ -165,7 +180,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2021_MDSC.jpg"
   type: review
   tags: 
 
@@ -179,7 +194,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2019_Gut.jpg"
   type: article
   tags: 
    - pancreatic cancer
@@ -197,7 +212,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2020_CancerCell.jpg"
   type: article
   tags: 
    - pancreatic cancer
@@ -214,7 +229,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2019_SciImm.jpg"
   type: article
   tags: 
    - pancreatic cancer
@@ -262,7 +277,7 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: 
+  image: "./images/pictures_science/2016_NM.jpg"
   type: article
   tags: 
    - pancreatic cancer
