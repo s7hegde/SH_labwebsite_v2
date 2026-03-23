@@ -20,19 +20,33 @@ We are a group of scientists within the Montefiore Einstein Comprehensive Cancer
   include section.html
   size=full
 %}
-We study how myeloid cells - chiefly monocytes and granulocytes - are co-opted by tumor inflammation to suppress anti-tumor immune responses, and how myeloid responses are distorted after rounds of genotoxic therapies (e.g.– chemotherapy, radiation). We have a particular interest in dissecting the early education of myeloid cell progenitors in bone marrow and/or spleen by inflammation. Combining high-dimensional longitudinal profiling of patient tissues with mechanistic studies in mouse models of cancer, our lab aims to understand how inflammatory cues alter the genetic, epigenetic, and metabolic wiring within myeloid cells and their progenitors; see [Hegde S. et al. Immunity 2021](https://doi.org/10.1016/j.immuni.2021.04.004). Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the next generation of myeloid cell-targeted immunotherapies for solid tumors such as pancreatic cancer.
+> **Myelopoiesis** (mī-ə-lō-(ˌ)pȯi-ˈē-səs) - regulated production of myeloid leukocytes in bone marrow and other blood-forming sites.
 
-Research in the Hegde lab spans themes of hematopoietic stem cell and progenitor biology, systems physiology, stress-associated proteostasis, and tumor microenvironment biology.  For more information on such research, please see our latest publications: [Hegde S. et al., Nature 2025](https://doi.org/10.1038/s41586-025-09493-y);[LaMarche N.M. et al., Nature 2024](https://doi.org/10.1038/s41586-023-06797-9).
+We study how **myeloid cells** - chiefly monocytes and granulocytes - are co-opted by **tumor inflammation** to suppress anti-tumor immune responses, and how myeloid responses are distorted after rounds of **genotoxic therapies** (e.g.– chemotherapy, radiation). 
+
+We have a particular interest in dissecting the early education of myeloid cell progenitors in bone marrow and/or spleen by inflammation. Combining high-dimensional longitudinal profiling of human patient tissues with mechanistic studies in mouse models of cancer, our lab aims to understand how inflammatory cues alter the genetic, epigenetic, and metabolic wiring within myeloid cells and their progenitors; see [Hegde S. et al. Immunity 2021](https://doi.org/10.1016/j.immuni.2021.04.004). Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the **next generation of myeloid cell-targeted immunotherapies** for solid tumors such as pancreatic cancer.
 
 {%
   include figure.html
   image='images/schematic_science/0_landing_schema.jpg' 
   caption="Role of myelopoiesis in various aspects of cancer inflammation"
   link="projects"
+  width="750px"
+%}
+
+Research in the Hegde lab spans **themes** of hematopoietic stem cell and progenitor biology, stress-associated proteostasis, and tumor microenvironment biology.  For more information on such research, please see our latest publications: [Hegde S. et al., Nature 2025](https://doi.org/10.1038/s41586-025-09493-y);[LaMarche N.M. et al., Nature 2024](https://doi.org/10.1038/s41586-023-06797-9).
+
+{%
+  include figure.html
+  image='images/schematic_science/0_landing_methodology.jpg' 
+  caption="Core research philosophy of lab: myeloid immunology across human and mouse models"
+  link="projects"
   width="800px"
 %}
 
-Bridging different facets of systems pathology, immunology, and epigenetics is one of our core goals. This is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds bring different perspectives and complementary approaches to advance our goals. If this rings true, [reach out!](./contact/)!
+Bridging different facets of systems pathology, myeloid immunology, metabolism and epigenetics is one of our core goals. This goal is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds can bring different perspectives and complementary approaches to advance our goals.\
+If this rings true, [**reach out!**](./contact/)!
+
 
 ### We are recruiting at all levels, especially associates/technicians and students.
 

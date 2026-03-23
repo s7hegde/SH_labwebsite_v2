@@ -1,11 +1,11 @@
 ---
 title: resources
 nav:
-  order: 6
+  order: 5
   tooltip: Policies, Guidelines
 ---
 
-This page is a living document designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work as well as conduct.
+> This page is a living document designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work as well as conduct.
 
 # {% include icon.html icon="fa-solid fa-handshake" %}Expectations
 

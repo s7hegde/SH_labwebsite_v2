@@ -4,7 +4,7 @@ nav:
   order: 2
   tooltip: Published and preprinted works
 ---
-Below are a list of selected publications from the Hegde group. For more complete list, please refer to MyNCBI/Pubmed. 
+> Below are a list of selected publications from the Hegde group. For more complete list, please refer to MyNCBI/Pubmed. 
 
 {% include section.html %}
 

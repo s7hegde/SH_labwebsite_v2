@@ -7,12 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News and Updates
 
-This page contains news and updates from the lab and their collaborators. 
+> This page contains news and updates from the lab and our collaborators. 
 
 {% include section.html %}
-
 {% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
-
 {% include list.html data="posts" component="post-excerpt" %}
