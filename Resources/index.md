@@ -1,7 +1,7 @@
 ---
 title: resources
 nav:
-  order: 5
+  order: 6
   tooltip: Policies, Guidelines
 ---
 

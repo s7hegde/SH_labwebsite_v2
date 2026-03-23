@@ -28,7 +28,7 @@ Research in the Hegde lab spans themes of hematopoietic stem cell and progenitor
   include figure.html
   image='images/schematic_science/0_landing_schema.jpg' 
   caption="Role of myelopoiesis in various aspects of cancer inflammation"
-  link="research"
+  link="projects"
   width="800px"
 %}
 
@@ -42,8 +42,7 @@ Bridging different facets of systems pathology, immunology, and epigenetics is o
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+The Hegde lab is at the forefront of myeloid immunology in cancer. 
 {%
   include button.html
   link="research"
@@ -57,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pictures_misc/2026_research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -65,14 +64,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Follow along for news and breakthroughs from the lab !
 {%
   include button.html
   link="news"
   text="Latest news"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -80,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pictures_misc/2026_updates.jpg"
   link="news"
   title="Updates"
   text=text
@@ -88,8 +86,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+The team that makes all the cool work happen !
 {%
   include button.html
   link="team"
@@ -103,7 +100,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pictures_misc/2026_team.jpg"
   link="team"
   title="Our Team"
   text=text

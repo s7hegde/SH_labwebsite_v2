@@ -43,8 +43,14 @@
   link: https://doi.org/hbs7px
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ./images/pictures_science/2026_Nature_EDF1.jpg
+  type: article
+  tags:
+  - epigenetics
+  - lung cancer
+  - bone marrow
 - id: doi:10.1038/s41467-024-55424-2
   title: Distinct immune cell infiltration patterns in pancreatic ductal adenocarcinoma
     (PDAC) exhibit divergent immune cell selection and immunosuppressive mechanisms
@@ -55,7 +61,6 @@
   - Piyush Kumar Sharma
   - Maire Ni Leathlobhair
   - Sakina Amin
-  - David J. Reiss
   - Lara Heij
   - Samarth Hegde
   - Assaf Magen
@@ -67,19 +72,15 @@
   - Santiago Revale
   - Isar Nassiri
   - Jonathon Webber
-  - Gerard D. Hoeltzel
-  - Adam E. Frampton
+  - Adam Frampton
   - Georg Wiltberger
   - Ulf Neumann
   - Philip Charlton
   - Laura Spiers
   - Tim Elliott
-  - Maria Wang
-  - Suzana Couto
-  - Thomas Lila
   - Pallavur V. Sivakumar
   - Alexander V. Ratushny
-  - Mark R. Middleton
+  - Mark Middleton
   - Dimitra Peppa
   - Benjamin Fairfax
   - Miriam Merad
@@ -88,11 +89,17 @@
   - Rachael Bashford-Rogers
   publisher: Nature Communications
   date: '2025-02-06'
-  link: https://doi.org/g839gr
+  link: https://doi.org/10.1038/s41467-024-55424-2
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - transcriptomics
+  - pancreatic cancer
+  - collaboration
 - id: doi:10.1101/2024.06.24.600383
   title: Myeloid progenitor dysregulation fuels immunosuppressive macrophages in tumors
   authors:
@@ -180,8 +187,14 @@
   link: https://doi.org/gs8wn2
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - lung cancer
+  - bone marrow
+  - transcriptomics
 - id: doi:10.3389/fcell.2024.1462915
   title: 'Editorial: Towards a more faithful ex vivo modelling of tumor-immune-stroma
     communication'
@@ -242,8 +255,15 @@
   link: https://doi.org/g8zhdj
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - lung cancer
+  - aging
+  - bone marrow
+  - transcriptomics
 - id: doi:10.1101/2024.09.09.610361
   title: Informing biologically relevant signal from spatial transcriptomic data
   authors:
@@ -423,8 +443,15 @@
   link: https://doi.org/g7vwqx
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - liver cancer
+  - spatial
+  - tissue biology
+  - transcriptomics
 - id: doi:10.1146/annurev-cancerbio-061521-085949
   title: On the Biology and Therapeutic Modulation of Macrophages and Dendritic Cells
     in Cancer
@@ -442,8 +469,11 @@
   link: https://doi.org/hbs7p6
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: review
+  tags: null
 - id: doi:10.1101/2023.08.31.555730
   title: Single-cell immune multi-omics and repertoire analyses in pancreatic ductal
     adenocarcinoma reveal differential immunosuppressive mechanisms within different
@@ -529,8 +559,14 @@
   link: https://doi.org/gr7mqr
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - lung cancer
+  - transcriptomics
+  - tissue biology
 - id: doi:10.1101/2022.06.22.497216
   title: Intratumoral mregDC and CXCL13 T helper niches enable local differentiation
     of CD8 T cells following PD-1 blockade
@@ -612,8 +648,11 @@
   link: https://doi.org/gp4w9x
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: review
+  tags: null
 - id: doi:10.1016/j.immuni.2020.05.002
   title: 'Immunology of COVID-19: Current State of the Science'
   authors:
@@ -731,8 +770,15 @@
   link: https://doi.org/gk54r7
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - pancreatic cancer
+  - therapy
+  - fibrosis
+  - tissue biology
 - id: doi:10.1038/s41577-020-0319-0
   title: Advancing scientific knowledge in times of pandemics
   authors:
@@ -775,8 +821,14 @@
   link: https://doi.org/ggwj4b
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - pancreatic cancer
+  - therapy
+  - tissue biology
 - id: doi:10.1038/s41577-020-0324-3
   title: Does asthma make COVID-19 worse?
   authors:
@@ -824,8 +876,14 @@
   link: https://doi.org/gf7tsg
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - pancreatic cancer
+  - therapy
+  - tissue biology
 - id: doi:10.1007/s00262-017-2003-1
   title: Tumor-associated fibrosis as a regulator of tumor immunity and response to
     immunotherapy
@@ -838,8 +896,14 @@
   link: https://doi.org/gbpw4s
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: review
+  tags:
+  - pancreatic cancer
+  - tissue biology
+  - fibrosis
 - id: doi:10.1016/j.celrep.2016.08.062
   title: "Sterile Inflammation Enhances ECM Degradation in Integrin \u03B21 KO Embryonic\
     \ Skin"
@@ -879,8 +943,14 @@
   link: https://doi.org/f83nqn
   orcid: 0000-0001-6319-0372
   samarth-hegde: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
+  type: article
+  tags:
+  - pancreatic cancer
+  - tissue biology
+  - fibrosis
 - id: doi:10.3109/15419061.2013.854334
   title: 'A Skin-depth Analysis of Integrins: Role of the Integrin Network in Health
     and Disease'

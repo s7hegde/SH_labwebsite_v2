@@ -1,65 +1,12 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 2
   tooltip: Published and preprinted works
 ---
-
-# {% include icon.html icon="fa-solid fa-disease" %}Research Areas
-
-In the laboratory, we are deeply passionate about many different aspects of how host myeloid cells respond to and are shaped by inflammation. While our major focus is in pancreatic and lung cancer, we are extremely interested in defining shared myeloid cell biology across disease contexts (e.g.– sepsis, fibrosis, acute radiation damage).  
-
-{%
-  include section.html
-  dark=true
-  size=full
-%}
-* #### Plasticity of epigenetic changes in myeloid progenitors during tumor-associated myelopoiesis.
-{%
-  include section.html
-  dark=false
-  size=full
-%}
-* #### Metabolic consequences on Proteostasis in myeloid progenitors due to tumor inflammation.
-{%
-  include section.html
-  dark=true
-  size=full
-%}
-* #### Fate transitions/rewiring in myeloid progenitors distal to cancer inflammation.
-{%
-  include section.html
-  dark=false
-  size=full
-%}
-* #### Role of oxidative stress regulators in driving reactive myelopoiesis after therapy.
-{%
-  include section.html
-  dark=true
-  size=full
-%}
-* #### How reactive myelopoiesis post-therapies can impact metastatic dissemination and/or dormancy exit.
-{%
-  include section.html
-  dark=false
-  size=full
-%}
-* #### How age-related dysfunction alters monocytic replacement of tissue niches and contributes to pre-metastatic niches.
-{%
-  include section.html
-  dark=true
-  size=full
-%}
-* #### Impact of acute damage (e.g.- radiation) vs. chronic genotoxicity (e.g.- long-term chemoradiation) on bone marrow stem cell fidelity and niche biology.
-{%
-  include section.html
-  dark=false
-  size=full
-%}
-We are constantly evolving in our thinking about myeloid immunity, and our project directions reflect that. Get in touch if you want to learn more or participate/collaborate!
+Below are a list of selected publications from the Hegde group. For more complete list, please refer to MyNCBI/Pubmed. 
 
 {% include section.html %}
-
 
 ## {% include icon.html icon="fa-solid fa-star" %}Highlighted
 

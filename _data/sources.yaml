@@ -1,1 +1,270 @@
-- id: 
+- id: doi:10.1038/s41586-025-09493-y
+  title: "Myeloid\_progenitor dysregulation fuels immunosuppressive macrophages in\
+    \ tumours"
+  publisher: Nature
+  date: '2025-09-10'
+  link: https://doi.org/hbs7px
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: "./images/pictures_science/2026_Nature_EDF1.jpg"
+  type: article
+  tags: 
+    - epigenetics
+    - lung cancer
+    - bone marrow
+
+- id: doi:10.1038/s41467-024-55424-2
+  title: Distinct immune cell infiltration patterns in pancreatic ductal adenocarcinoma
+    (PDAC) exhibit divergent immune cell selection and immunosuppressive mechanisms
+  authors:
+  - Shivan Sivakumar
+  - Ashwin Jainarayanan
+  - Edward Arbe-Barnes
+  - Piyush Kumar Sharma
+  - Maire Ni Leathlobhair
+  - Sakina Amin
+  - Lara Heij
+  - Samarth Hegde
+  - Assaf Magen
+  - Felicia Tucci
+  - Bo Sun
+  - Shihong Wu
+  - Nithishwer Mouroug Anand
+  - Hubert Slawinski
+  - Santiago Revale
+  - Isar Nassiri
+  - Jonathon Webber
+  - Adam Frampton
+  - Georg Wiltberger
+  - Ulf Neumann
+  - Philip Charlton
+  - Laura Spiers
+  - Tim Elliott
+  - Pallavur V. Sivakumar
+  - Alexander V. Ratushny
+  - Mark Middleton
+  - Dimitra Peppa
+  - Benjamin Fairfax
+  - Miriam Merad
+  - Michael L. Dustin
+  - Enas Abu-Shah
+  - Rachael Bashford-Rogers
+  publisher: Nature Communications
+  date: '2025-02-06'
+  link: https://doi.org/10.1038/s41467-024-55424-2
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+    - transcriptomics
+    - pancreatic cancer
+    - collaboration
+
+- id: doi:10.1038/s41586-023-06797-9
+  title: An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis
+  publisher: Nature
+  date: '2023-12-06'
+  link: https://doi.org/gs8wn2
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - lung cancer
+   - bone marrow
+   - transcriptomics
+
+- id: doi:10.1126/science.adn0327
+  title: "Hematopoietic aging promotes cancer by fueling IL-1\u237A\u2013driven emergency\
+    \ myelopoiesis"
+  publisher: Science
+  date: '2024-10-25'
+  link: https://doi.org/g8zhdj
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - lung cancer
+   - aging
+   - bone marrow
+   - transcriptomics
+
+- id: doi:10.1038/s41591-023-02345-0
+  title: "Intratumoral dendritic cell\u2013CD4+ T helper cell niches enable CD8+ T\
+    \ cell differentiation following PD-1 blockade in hepatocellular carcinoma"
+  publisher: Nature Medicine
+  date: '2023-06-01'
+  link: https://doi.org/g7vwqx
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - liver cancer
+   - spatial
+   - tissue biology
+   - transcriptomics
+
+- id: doi:10.1146/annurev-cancerbio-061521-085949
+  title: On the Biology and Therapeutic Modulation of Macrophages and Dendritic Cells
+    in Cancer
+  authors:
+  - Matthew D. Park
+  - Meriem Belabed
+  - Steven T. Chen
+  - Pauline Hamon
+  - Samarth Hegde
+  - "Rapha\xEBl Mattiuz"
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Annual Review of Cancer Biology
+  date: '2023-04-11'
+  link: https://doi.org/hbs7p6
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: review
+  tags:
+
+- id: doi:10.1038/s41590-023-01475-4
+  title: TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer
+  publisher: Nature Immunology
+  date: '2023-04-20'
+  link: https://doi.org/gr7mqr
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - lung cancer
+   - transcriptomics
+   - tissue biology
+
+- id: doi:10.1016/j.immuni.2021.04.004
+  title: 'MDSC: Markers, development, states, and unaddressed complexity'
+  publisher: Immunity
+  date: '2021-05-01'
+  link: https://doi.org/gp4w9x
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: review
+  tags: 
+
+- id: doi:10.1136/gutjnl-2018-317424
+  title: Development of resistance to FAK inhibition in pancreatic cancer is linked
+    to stromal depletion
+  publisher: Gut
+  date: '2019-05-10'
+  link: https://doi.org/gk54r7
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - pancreatic cancer
+   - therapy
+   - fibrosis
+   - tissue biology
+
+- id: doi:10.1016/j.ccell.2020.02.008
+  title: Dendritic Cell Paucity Leads to Dysfunctional Immune Surveillance in Pancreatic
+    Cancer
+  publisher: Cancer Cell
+  date: '2020-03-01'
+  link: https://doi.org/ggwj4b
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - pancreatic cancer
+   - therapy
+   - tissue biology
+
+- id: doi:10.1126/scitranslmed.aau9240
+  title: Agonism of CD11b reprograms innate immunity to sensitize pancreatic cancer
+    to immunotherapies
+  publisher: Science Translational Medicine
+  date: '2019-07-03'
+  link: https://doi.org/gf7tsg
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - pancreatic cancer
+   - therapy
+   - tissue biology
+
+- id: doi:10.1007/s00262-017-2003-1
+  title: Tumor-associated fibrosis as a regulator of tumor immunity and response to
+    immunotherapy
+  publisher: Cancer Immunology, Immunotherapy
+  date: '2017-04-27'
+  link: https://doi.org/gbpw4s
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: review
+  tags: 
+   - pancreatic cancer
+   - tissue biology
+   - fibrosis
+
+- id: doi:10.1038/nm.4123
+  title: Targeting focal adhesion kinase renders pancreatic cancers responsive to
+    checkpoint immunotherapy
+  authors:
+  - Hong Jiang
+  - Samarth Hegde
+  - Brett L Knolhoff
+  - Yu Zhu
+  - John M Herndon
+  - Melissa A Meyer
+  - Timothy M Nywening
+  - William G Hawkins
+  - Irina M Shapiro
+  - David T Weaver
+  - Jonathan A Pachter
+  - Andrea Wang-Gillam
+  - David G DeNardo
+  publisher: Nature Medicine
+  date: '2016-07-04'
+  link: https://doi.org/f83nqn
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
+  image: 
+  type: article
+  tags: 
+   - pancreatic cancer
+   - tissue biology
+   - fibrosis
