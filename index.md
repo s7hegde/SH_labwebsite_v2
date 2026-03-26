@@ -1,20 +1,18 @@
 ---
 ---
+
 # Tackling fundamental questions in cancer myeloid immunology !
-
 We are a group of scientists within the Montefiore Einstein Comprehensive Cancer Center (MECCC) interested in dissecting the long-range communication between cancer inflammation and sites of hematopoiesis i.e. blood-cell formation in bone marrow and the spleen.
-
 {%
   include section.html
   dark=true
   size=full
 %}
-
-## **Our Goals:**
-* #### Decode WHAT is the impact of a growing cancer on far-away myeloid cell progenitors. 
-* #### Understand HOW consequential these molecular changes are to their dysfunction.
-* #### Determine IF and HOW we can pharmacologically target systemic myeloid dysfunction.
-* #### Study HOW therapy-associated damage rewires host myeloid response and influences cancer dormancy exit.
+# Our Goals:
+* Decode WHAT is the impact of a growing cancer on far-away myeloid cell progenitors. 
+* Understand HOW consequential these molecular changes are to their dysfunction.
+* Determine IF and HOW we can pharmacologically target systemic myeloid dysfunction.
+* Study HOW therapy-associated damage rewires host myeloid response and influences cancer dormancy exit.
 
 {%
   include section.html
@@ -100,7 +98,7 @@ Follow along for news and breakthroughs from the lab !
 
 {% capture text %}
 
-We are a team of researchers from various backgrounds that want to push the frontier of myeloid immunology in inflammation. 
+We are a team of researchers from various backgrounds that want to push the frontier of myeloid immunology in inflammation. Join us ! 
 {%
   include button.html
   link="team"
