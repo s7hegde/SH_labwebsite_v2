@@ -5,6 +5,6 @@
 
   # Website for Laboratory of Dr. Samarth Hegde
 
-  Visit **[samhegdelab.org](http://samhegdelab.org)** 🚀
+  Visit **[samhegdelab.org](https://samhegdelab.org)** 🚀
 
   _Inspired by [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
