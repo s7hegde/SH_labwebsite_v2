@@ -2,7 +2,7 @@
 name: Samarth Hegde
 image: images/team/samarth-hegde.jpg
 role: principal-investigator
-affiliation: XYZ
+affiliation: DMB, CellBio, MECCC
 links:
   home-page: XYZ<einstein>
   orcid: 0000-0001-6319-0372
