@@ -9,7 +9,7 @@ links:
   email: samarth.hegde@einsteinmed.edu
 ---
 
-Dr. Samarth Hegde is the incoming Assistant Professor in the department of Developmental & Molecular Biology, with secondary appointment in Cell Biology, at Albert Einstein College of Medicine (NY). He is a member of the Montefiore Einstein Cancer Center, and the Cancer Dormancy Institute. 
+Dr. Samarth Hegde is an incoming Assistant Professor in the department of Developmental & Molecular Biology, with secondary appointment in Cell Biology, at Albert Einstein College of Medicine (NY). He is a member of the Montefiore Einstein Cancer Center, and the Cancer Dormancy Institute. 
 
 Previously, he was an Instructor in the laboratory of Prof. Miriam Merad at Icahn School of Medicine at Mount Sinai (NY) exploring the epigenetic dysregulation of myeloid cells and their precursor cells in lung cancer through a systems immunology lens. He received his Ph.D. in the lab of Dr. David DeNardo at Washington University in St. Louis (MO), where he studied dendritic cell immune surveillance dysfunction in pancreatic cancer that limits T cell function and immunotherapy efficacy.
 
