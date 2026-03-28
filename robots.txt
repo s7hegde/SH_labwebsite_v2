@@ -1,1 +1,1 @@
-Sitemap: http://samhegdelab.org/sitemap.xml
+Sitemap: https://samhegdelab.org/sitemap.xml

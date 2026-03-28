@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 50px;
 }
 
 .logo > * {
@@ -51,7 +51,7 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.65;
+  opacity: 0.85;
   font-weight: var(--thin);
 }
 
@@ -121,7 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
+  padding: 50px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -129,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 200px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
