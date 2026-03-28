@@ -1,5 +1,5 @@
 ---
-name: Sarah Johnson
+name: Jane Doe
 image: images/photo.jpg
 description: Lead Programmer
 role: programmer
