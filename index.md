@@ -1,10 +1,15 @@
 ---
+
 ---
 
 # Tackling fundamental questions in cancer myeloid immunology !
 We are a group of scientists within the Montefiore Einstein Comprehensive Cancer Center (MECCC) interested in dissecting the long-range communication between cancer inflammation and sites of hematopoiesis i.e. blood-cell formation in bone marrow and the spleen.
 
-{% include section.html %}
+{% 
+  include section.html 
+  dark = true
+  %}
+
 # Our Goals:
 * Decode WHAT is the impact of a growing cancer on far-away myeloid cell progenitors. 
 * Understand HOW consequential these molecular changes are to their dysfunction.
@@ -19,7 +24,7 @@ We are a group of scientists within the Montefiore Einstein Comprehensive Cancer
 
 We study how **myeloid cells** - chiefly monocytes and granulocytes - are co-opted by **tumor inflammation** to suppress anti-tumor immune responses, and how myeloid responses are distorted after rounds of **genotoxic therapies** (e.g.– chemotherapy, radiation). 
 
-We have a particular interest in dissecting the early education of myeloid cell progenitors in bone marrow and/or spleen by inflammation. Combining high-dimensional longitudinal profiling of human patient tissues with mechanistic studies in mouse models of cancer, our lab aims to understand how inflammatory cues alter the genetic, epigenetic, and metabolic wiring within myeloid cells and their progenitors; see [Hegde S. et al. Immunity 2021](https://doi.org/10.1016/j.immuni.2021.04.004). Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the **next generation of myeloid cell-targeted immunotherapies** for solid tumors such as pancreatic cancer.
+We have a particular interest in dissecting the early education of myeloid cell progenitors in bone marrow and spleen by inflammation. Combining high-dimensional longitudinal profiling of human patient tissues with mechanistic studies in mouse models of cancer, our lab aims to understand how inflammatory cues alter the genetic, epigenetic, and metabolic wiring within myeloid cells and their progenitors to engender immunosuppressive cell states; see [Hegde S. et al. Immunity 2021](https://doi.org/10.1016/j.immuni.2021.04.004). 
 
 {%
   include figure.html
@@ -39,9 +44,9 @@ Research in the Hegde lab spans **themes** of hematopoietic stem cell and progen
   width="800px"
 %}
 
-Bridging different facets of systems pathology, myeloid immunology, metabolism and epigenetics is one of our core goals. This goal is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds can bring different perspectives and complementary approaches to advance our goals.\
-If this rings true, [**reach out!**](./contact/)!
+Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the **next generation of myeloid cell-targeted immunotherapies** for solid tumors such as pancreatic cancer. Bridging different facets of systems pathology, myeloid immunology, metabolism, and epigenetics is one of our core goals. This goal is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds can bring different perspectives and complementary approaches to advance our goals.\
 
+If this rings true, [**reach out!**](./contact/)!
 
 ### We are recruiting at all levels, especially associates/technicians and students.
 
@@ -50,7 +55,6 @@ If this rings true, [**reach out!**](./contact/)!
 ## Highlights
 
 {% capture text %}
-
 The Hegde lab is at the forefront of cancer immunology, using traditional immunology and cutting edge -omics techniques to study myeloid cell dysregulation. 
 {%
   include button.html
@@ -72,7 +76,6 @@ The Hegde lab is at the forefront of cancer immunology, using traditional immuno
 %}
 
 {% capture text %}
-
 Follow along for news and breakthroughs from the lab !
 {%
   include button.html
@@ -94,7 +97,6 @@ Follow along for news and breakthroughs from the lab !
 %}
 
 {% capture text %}
-
 We are a team of researchers from various backgrounds that want to push the frontier of myeloid immunology in inflammation. Join us ! 
 {%
   include button.html

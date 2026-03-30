@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 1
   tooltip: Research areas

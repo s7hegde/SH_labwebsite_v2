@@ -1,17 +1,24 @@
 ---
-title: Lab Vision
+title: Vision
 nav:
   order: 4
   tooltip: Mission, Values
 ---
+{% 
+  include section.html 
+  dark = true
+  %}
 
 # {% include icon.html icon="fa-solid fa-arrows-to-circle"  %}Our Mission
 
-* ###### Understand the grammar of myelopoiesis and how it is distorted in disease.
-* ###### Improve current treatment paradigms for solid cancers, by incorporating myeloid cell-targeting strategies.
-* ###### Make meaningful impact in lives of patients with cancer or in remission. 
-* ###### Train the next generation of cancer immunologists with an activist mindset.
+* Understand the grammar of myelopoiesis and how it is distorted in disease.
+* Improve current treatment paradigms for solid cancers, by incorporating myeloid cell-targeting strategies.
+* Make meaningful impact in lives of patients with cancer or in remission. 
+* Train the next generation of cancer immunologists with an activist mindset.
 
+{% 
+  include section.html 
+  %}
 
 # {% include icon.html icon="fa-solid fa-hand-fist" %}Our Values
 
