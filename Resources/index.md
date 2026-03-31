@@ -5,21 +5,26 @@ nav:
   tooltip: Policies, Guidelines
 ---
 
-> This page is a living document designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work as well as conduct.
+> This page is an excerpt from our living document designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work, as well as model team conduct. More details are available in the [Official labguide book (Einstein OneDrive)]().
 
 # {% include icon.html icon="fa-solid fa-handshake" %}Expectations
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In the Hegde lab, we expect ..
 
+{%
+  include section.html
+  size=full
+%}
 # {% include icon.html icon="fa-solid fa-file-contract" %}Mentorship Agreement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+__Philosophy: *Shared Curiosity, Mutual Respect, Clear Expectations, Investment in the Individual*__
 
+__Samarth's promise: *Sponsorship (Not just Mentorship), Constructive Feedback, Accountability, Confidentiality*__ 
+
+{%
+  include section.html
+  size=full
+%}
 # {% include icon.html icon="fa-solid fa-square-check" %}Transparency in Resource Allocation
 
-credit goes to JEFWorks Lab
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In the Hegde lab, we expect ..
