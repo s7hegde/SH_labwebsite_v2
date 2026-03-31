@@ -25,8 +25,8 @@
 
 :root {
   --title: "Google Sans Flex";
-  --heading: "Google Sans Flex";
-  --body: "Google Sans Flex";
+  --heading: "Noto Sans";
+  --body: "Noto Sans";
   --code: "Kode Mono", monospace;
   --medium: 1rem;
   --large: 1.2rem;
@@ -38,9 +38,9 @@
   --bold: 600;
   --spacing: 2;
   --compact: 1;
-  --rounded: 3px;
+  --rounded: 10px;
   --shadow: 0 0 10px 0 var(--overlay);
-  --transition: 0.2s ease;
+  --transition: 0.4s ease;
 }
 
 /*# sourceMappingURL=-theme.css.map */
