@@ -40,8 +40,8 @@
 :root {
   // font families
   --title: "Google Sans Flex";
-  --heading: "Google Sans Flex";
-  --body: "Google Sans Flex";
+  --heading: "Noto Sans";
+  --body: "Noto Sans";
   --code: "Kode Mono", monospace;
 
   // font sizes
@@ -61,7 +61,7 @@
   --compact: 1;
 
   // effects
-  --rounded: 3px;
+  --rounded: 10px;
   --shadow: 0 0 10px 0 var(--overlay);
-  --transition: 0.2s ease;
+  --transition: 0.4s ease;
 }

@@ -9,7 +9,6 @@ We are a group of scientists within the Montefiore Einstein Comprehensive Cancer
   include section.html 
   dark = true
   %}
-
 # Our Goals:
 * Decode WHAT is the impact of a growing cancer on far-away myeloid cell progenitors. 
 * Understand HOW consequential these molecular changes are to their dysfunction.
@@ -44,11 +43,9 @@ Research in the Hegde lab spans **themes** of hematopoietic stem cell and progen
   width="800px"
 %}
 
-Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the **next generation of myeloid cell-targeted immunotherapies** for solid tumors such as pancreatic cancer. Bridging different facets of systems pathology, myeloid immunology, metabolism, and epigenetics is one of our core goals. This goal is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds can bring different perspectives and complementary approaches to advance our goals.\
+Our lab will work closely with clinician-scientists at Einstein and beyond, developing and testing the **next generation of myeloid cell-targeted immunotherapies** for solid tumors such as pancreatic cancer. Bridging different facets of systems pathology, myeloid immunology, metabolism, and epigenetics is one of our core goals. This goal is reliant on creating an inclusive + affirmative environment where individuals from various backgrounds can bring different perspectives and complementary approaches to advance our goals.
 
-If this rings true, [**reach out!**](./contact/)!
-
-### We are recruiting at all levels, especially associates/technicians and students.
+### If this rings true, [**reach out!**](./contact/)! We are recruiting at all levels, especially associates/technicians and students.
 
 {% include section.html %}
 
