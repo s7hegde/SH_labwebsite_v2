@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2326-6066.cir-25-1479
+  title: "Training Tomorrow\u2019s Leaders in Cancer Immunology"
+  authors:
+  - Yuqi Tan
+  - B.J. Kim
+  - Adriana M. Mujal
+  - Alex C.Y. Chen
+  - Allison M. Weis
+  - Elisa Bergaggio
+  - Goran Micevic
+  - Hongyan Xie
+  - Joon Seok Park
+  - Jyh Liang Hor
+  - Michael Papanicolaou
+  - Nour Shobaki
+  - Pablo Domizi
+  - Rebecca B. Delconte
+  - Roberto Vendramin
+  - Samarth Hegde
+  - SeongJun Han
+  - Yapeng Su
+  - Nir Hacohen
+  publisher: Cancer Immunology Research
+  date: '2026-01-12'
+  link: https://doi.org/hbvgtc
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-025-09493-y
   title: "Myeloid\_progenitor dysregulation fuels immunosuppressive macrophages in\
     \ tumours"
