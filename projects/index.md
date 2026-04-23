@@ -13,11 +13,11 @@ nav:
   include section.html
   size=full
 %}
-* #### Plasticity of epigenetic changes in myeloid progenitors during tumor-associated myelopoiesis.
+* #### “How does tumor-associated myelopoiesis impact BM cells epigenetically?” 
 {%
   include figure.html
   image='images/schematic_science/1_epigenetics.jpg' 
-  caption="X"
+  caption="Plasticity of epigenetic changes in myeloid progenitors during tumor-associated myelopoiesis."
   width="800px"
 %}
 
@@ -26,11 +26,11 @@ nav:
   dark=false
   size=full
 %}
-* #### Metabolic consequences on Proteostasis in myeloid progenitors due to tumor inflammation.
+* #### “What are the metabolic consequences of oxidative stress responses during tumor-associated myelopoiesis?”
 {%
   include figure.html
   image='images/schematic_science/1_metabolism.jpg' 
-  caption="X"
+  caption="Metabolic consequences on Proteostasis in myeloid progenitors due to tumor inflammation"
   width="800px"
 %}
 
@@ -38,11 +38,11 @@ nav:
   include section.html
   size=full
 %}
-* #### Fate transitions/rewiring in myeloid progenitors distal to cancer inflammation.
+* #### “Is the steady-state fate of BM stem cells and multipotent progenitors altered by cancer inflammation?”
 {%
   include figure.html
   image='images/schematic_science/1_fate.jpg' 
-  caption="X"
+  caption="Fate transitions/rewiring in myeloid progenitors distal to cancer inflammation"
   width="700px"
 %}
 
@@ -50,11 +50,11 @@ nav:
   include section.html
   size=full
 %}
-* #### Role of oxidative stress regulators in driving reactive myelopoiesis after therapy.
+* #### “How do acute or chronic genotoxic therapies impact reactive myelopoiesis?”
 {%
   include figure.html
   image='images/schematic_science/1_genotoxic.jpg' 
-  caption="X"
+  caption="Role of oxidative stress regulators in driving reactive myelopoiesis after therapy"
   width="800px"
 %}
 Impact of acute damage (e.g.- radiation) vs. chronic genotoxicity (e.g.- long-term chemoradiation) on bone marrow stem cell fidelity and niche biology.
@@ -63,11 +63,11 @@ Impact of acute damage (e.g.- radiation) vs. chronic genotoxicity (e.g.- long-te
   include section.html
   size=full
 %}
-* #### How reactive myelopoiesis post-therapies can impact metastatic dissemination and/or dormancy exit.
+* #### “Does myelopoiesis in response to therapies influence met dissemination and/or dormancy exit?”
 {%
   include figure.html
   image='images/schematic_science/1_tmem.jpg' 
-  caption="X"
+  caption="Reactive myelopoiesis post-therapies can impact metastatic dissemination and/or dormancy exit. TMEM: 'Tumor MicroEnvironment of Metastasis' doorways that are conduits for metastatic cells"
   width="800px"
 %}
 
@@ -75,13 +75,6 @@ Impact of acute damage (e.g.- radiation) vs. chronic genotoxicity (e.g.- long-te
   include section.html
   dark=false
   size=full
-%}
-* #### How age-related dysfunction alters monocytic replacement of tissue niches and contributes to pre-metastatic niches.
-{%
-  include figure.html
-  image='images/schematic_science/1_x.jpg' 
-  caption="X"
-  width="700px"
 %}
 
 {%
