@@ -14,6 +14,7 @@ This page is an excerpt from our [living document (OneDrive pdf)]() designed to 
   include section.html
   size=full
 %}
+
 # {% include icon.html icon="fa-solid fa-handshake" %}Expectations
 
 __In the Hegde lab, we expect:__\
@@ -27,10 +28,7 @@ __In the Hegde lab, we expect:__\
 
 More details are available in the Official lab guide.
 
-{%
-  include section.html
-  size=full
-%}
+
 # {% include icon.html icon="fa-solid fa-file-contract" %}Mentorship Agreement
 
 __My Mentoring Philosophy:__
@@ -40,7 +38,3 @@ __My promise:__
 *Sponsorship (Not just Mentorship), Constructive Feedback, Accountability, Confidentiality*
 
 More details are available in the Official lab guide.
-{%
-  include section.html
-  size=full
-%}

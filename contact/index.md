@@ -41,7 +41,6 @@ We also welcome visiting international PhD students. Contact Dr. Hegde directly 
 
 {%
   include section.html
-  dark=false
   size=full
 %}
 # ARE YOU A POSTDOC OR RESEARCH TECHNICIAN APPLICANT?
@@ -71,7 +70,9 @@ If we like your application, we will set up a time for a video conference call t
 * Bonus: Some experience with Linux/MacOS and either of the following programming languages: R, Python
 * Exceptions are always considered for highly motivated, enthusiastic applicants from non-traditional backgrounds!
 
-Inspired by [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../Resources/).
+Inspired by our friend [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../Resources/).
+
+{% include section.html dark=true %}
 
 #### We are committed to training the next generation of biomedical researchers and collectively drive innovation in myeloid cell immunology. We look forward to hearing from you!
 

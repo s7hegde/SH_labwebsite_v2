@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Research areas
+  tooltip: Research Areas
 ---
 
 # {% include icon.html icon="fa-solid fa-disease" %}Research Areas
@@ -24,7 +24,6 @@ Our prior work has started revealing the impact of cancer inflammation on chroma
 
 {%
   include section.html
-  dark=false
   size=full
 %}
 # {% include icon.html icon="fa-solid fa-circle-question" %}“What are the metabolic consequences of oxidative stress responses during tumor-associated myelopoiesis?”
@@ -82,7 +81,13 @@ Post-therapy myelopoiesis is important to renewing the host immune system but ca
 %}
 
 We are constantly evolving in our thinking about myeloid immunity, and our project directions reflect that. Get in touch if you want to learn more or participate/collaborate!
-{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-money-bills" %}Our Funding
+
+* National Institutes of Health (NIH) – National Cancer Institute (NCI)
+* Montefiore Einstein Comprehensive Cancer Center
+
+
 ## {% include icon.html icon="fa-solid fa-star" %}Highlighted
 
 {% include citation.html lookup="doi:10.1038/s41586-025-09493-y" style="rich" %}
