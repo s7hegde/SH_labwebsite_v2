@@ -9,7 +9,7 @@ nav:
 
 The Hegde lab is situated in the Chanin Institute for Cancer Research on the campus of Albert Einstein College of Medicine. We are a proud member of the Montefiore Einstein Comprehensive Cancer Center (MECCC).
 
-Our official webpage is here: [Einstein Profile page](temp)
+Our official webpage is here: [Faculty directory](temp)
 
 The best way to reach Dr. Hegde is by email.
 
@@ -23,7 +23,7 @@ The best way to reach Dr. Hegde is by email.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Our location on Google Maps"
   link="https://maps.app.goo.gl/9md273BJBq8vsPQq6"
 %}
 
@@ -44,7 +44,7 @@ We also welcome visiting international PhD students. Contact Dr. Hegde directly 
   dark=false
   size=full
 %}
-# ARE YOU A POSTDOC OR TECHNICIAN APPLICANT?
+# ARE YOU A POSTDOC OR RESEARCH TECHNICIAN APPLICANT?
 We are on the lookout for post-docs and research associates/technicians interested at the interface of cancer biology and immunology, with the career goals in academia or developing transition to biotech/industry or further schooling. If you are interested, please reach out as follows:
 
 1.	Email Samarth with the subject line “Post-doc/Research associate application: [your name]”.
@@ -57,27 +57,28 @@ If we like your application, we will set up a time for a video conference call t
 #### Successful research associate/technician applicants will have:
 * B.A. or B.S in Biology, Immunology, Genetics, or related field
 * Familiarity with basic procedures in handling chemicals, DNA/RNA, and standard lab equipment
-* Some prior demonstrable experience with lab bench work 
+* Some prior demonstrable experience with lab bench work (0-2 years)
 * Experience working with, or openness to work with mice. 
-* Some experience with Linux/MacOS operating system
 * Good organizational and communication skills
+* Bonus: Some experience with Linux/MacOS and either of the following programming languages: R, Python
 * Exceptions are always considered for highly motivated, enthusiastic applicants from non-traditional backgrounds!
 
 #### Successful post-doc applicants will have:
 * Ph.D. in Molecular Biology, Cell Biology, Immunology, BioEngineering, Cancer Biology, Developmental Biology, or related biology field.
 * Experience with tissue culture, mouse work, NGS library preparation, and/or single-cell sequencing.
 * At least one first author or co-first author manuscript with accepted, or published status in peer-reviewed journals; alternatively a preprinted manuscript.
-* Some experience with Linux/MacOS and either of the following programming languages: R, Python
+* Good organizational and communication skills
+* Bonus: Some experience with Linux/MacOS and either of the following programming languages: R, Python
 * Exceptions are always considered for highly motivated, enthusiastic applicants from non-traditional backgrounds!
 
-Inspired by [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../Resources/) on Transparency in Resource Allocation.
+Inspired by [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../Resources/).
 
 #### We are committed to training the next generation of biomedical researchers and collectively drive innovation in myeloid cell immunology. We look forward to hearing from you!
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Hegde Laboratory
+**Hegde Laboratory**
 
 Albert Einstein College of Medicine\
 1300 Morris Park Ave\
