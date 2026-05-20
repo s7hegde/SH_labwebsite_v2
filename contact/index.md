@@ -70,7 +70,7 @@ If we like your application, we will set up a time for a video conference call t
 * Bonus: Some experience with Linux/MacOS and either of the following programming languages: R, Python
 * Exceptions are always considered for highly motivated, enthusiastic applicants from non-traditional backgrounds!
 
-Inspired by our friend [JEFWORKs](https://jef.works/), please see our [Lab Policy page](../Resources/).
+Inspired by our friend [JEFWORKs](https://jef.works/). Also see our [Resources page](../Resources/).
 
 {% include section.html dark=true %}
 
