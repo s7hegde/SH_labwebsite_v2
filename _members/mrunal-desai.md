@@ -1,7 +1,7 @@
 ---
 name: Mrunal Milind Desai
 image: images/team/
-role: Research Technician
+role: tech
 affiliation: DMB
 links:
   home-page: XYZ<einstein>
