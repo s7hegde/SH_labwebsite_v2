@@ -20,11 +20,11 @@ tech:
   
 undergrad:
   icon: fa-solid fa-google-scholar
-  description: Undergraduate Student
+  description: Undergraduate Volunteer
 
-programmer:
+computational-scientist:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Computational Scientist
 
 mascot:
   icon: fa-solid fa-dog
