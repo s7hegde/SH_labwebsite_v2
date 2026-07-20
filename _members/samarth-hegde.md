@@ -2,7 +2,7 @@
 name: Samarth Hegde
 image: images/team/samarth-hegde.jpg
 role: principal-investigator
-affiliation: DMB, CellBio, MECCC
+affiliation: DMB, MECCC
 links:
   home-page: https://einsteinmed.edu/faculty/19921/samarth-hegde
   orcid: 0000-0001-6319-0372
