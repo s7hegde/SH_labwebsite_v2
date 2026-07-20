@@ -1,5 +1,84 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/science.ady1678
+  title: Dendritic cells control tertiary lymphoid structure development and maintenance
+    in cancer
+  authors:
+  - "Rapha\xEBl Mattiuz"
+  - Jesse Boumelha
+  - Emmanouil Aerakis
+  - Jessica Le Berichel
+  - Pauline Hamon
+  - Laszlo Halasz
+  - Abishek Vaidya
+  - Brian Y. Soong
+  - Emir Radkevich
+  - Hye Mi Kim
+  - Matthew D. Park
+  - Romain Donne
+  - Leanna Troncoso
+  - Rachel A. Kaplan
+  - Clotilde Hennequin
+  - "Isaias Hern\xE1ndez-Verdin"
+  - "Luc\xEDa L\xF3pez"
+  - Frederika Rentzeperis
+  - "Darwin D\u2019Souza"
+  - Medard Ernest Kaiza
+  - Ian P. MacFawn
+  - Meriem Belabed
+  - Guillaume Mestrallet
+  - Etienne Humblin
+  - "Rapha\xEBl Merand"
+  - Samarth Hegde
+  - Jean-Christophe Lone
+  - Giorgio Ioannou
+  - Sinem Ozbey
+  - Igor Figueiredo
+  - Alexander Tepper
+  - Hajer Merarda
+  - Nadine Serhan
+  - Maximilian M. Schaefer
+  - Jinping An
+  - Ray A. Ohara
+  - Erika Nemeth
+  - Simon Goldstein
+  - Amanda M. Reid
+  - Moataz Noureddine
+  - Alexandra Tabachnikova
+  - Giulia Maria Piperno
+  - Maria Tsoumakidou
+  - Jalal Ahmed
+  - Alexandros D. Polydorides
+  - Nina Bhardwaj
+  - Amaia Lujambio
+  - Zhihong Chen
+  - Edgar Gonzalez Kozlova
+  - Seunghee Kim-Schulze
+  - Joshua D. Brody
+  - Michael Schotsaert
+  - Christine Moussion
+  - Sacha Gnjatic
+  - Vladimir Roudko
+  - Florent Ginhoux
+  - Kenneth M. Murphy
+  - "Catherine Saut\xE8s-Fridman"
+  - Wolf Herman Fridman
+  - Brian D. Brown
+  - Thomas U. Marron
+  - Federica Benvenuti
+  - Jason G. Cyster
+  - "H\xE9l\xE8ne Salmon"
+  - Tullia C. Bruno
+  - Nikhil S. Joshi
+  - Alice O. Kamphorst
+  - Miriam Merad
+  publisher: Science
+  date: '2026-07-16'
+  link: https://doi.org/hcb64w
+  orcid: 0000-0001-6319-0372
+  samarth-hegde: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2326-6066.cir-25-1479
   title: "Training Tomorrow\u2019s Leaders in Cancer Immunology"
   authors:
