@@ -1,6 +1,6 @@
 ---
 name: Mrunal Milind Desai
-image: images/team/mrunal-desai.jpg
+image: images/team/mrunal-desai.jpeg
 role: tech
 affiliation: DMB
 links:
