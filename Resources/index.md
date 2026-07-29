@@ -8,7 +8,7 @@ nav:
   include section.html 
   dark = true
   %}
-This page is an excerpt from our [living document (OneDrive pdf)](https://montefioreorg.sharepoint.com/:b:/r/sites/HegdeLabGroup/Shared%20Documents/Welcome%20packet%20and%20resources/Hegde%20lab%20guide_20260730.pdf?csf=1&web=1&e=E0SEp9) designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work, as well as model team conduct.  
+This page is an excerpt from our [living document (OneDrive pdf)](https://montefioreorg.sharepoint.com/sites/HegdeLabGroup/Shared%20Documents/Welcome%20packet%20and%20resources/Hegde%20lab%20guide_20260730.pdf?CID=5190e4ea-6bd6-4132-875b-37ce44a259e3) designed to facilitate the continued growth and development of our lab members, providing guidelines and best practices for our work, as well as model team conduct.  
 
 {%
   include section.html
