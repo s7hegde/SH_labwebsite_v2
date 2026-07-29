@@ -1,6 +1,6 @@
 ---
 name: Kayla Ogyaadu
-image: images/team/kayla-ogyaadu.jpg
+image: images/team/kayla-ogyaadu.png
 role: undergrad
 affiliation: DMB
 links:
