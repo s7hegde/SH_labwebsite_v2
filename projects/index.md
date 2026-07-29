@@ -92,5 +92,5 @@ We are constantly evolving in our thinking about myeloid immunity, and our proje
 
 {% include citation.html lookup="doi:10.1038/s41586-025-09493-y" style="rich" %}
 
-Please visit the [Research](/research) page for more details on publications
+Please visit the [Publications](/research) page for more
 {% include section.html %}
