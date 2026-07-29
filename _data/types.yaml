@@ -19,8 +19,12 @@ tech:
   description: Research Technician
   
 undergrad:
-  icon: fa-solid fa-google-scholar
-  description: Undergraduate Volunteer
+  icon: fa-solid fa-school
+  description: Undergraduate Summer
+
+volunteer:
+  icon: fa-solid fa-school
+  description: Volunteer
 
 computational-scientist:
   icon: fa-solid fa-code

@@ -1,7 +1,7 @@
 ---
 name: Kayla Ogyaadu
 image: images/team/kayla-ogyaadu.png
-role: undergrad
+role: volunteer
 affiliation: DMB
 links:
   orcid: 

@@ -6,8 +6,8 @@ role: programmer
 links:
   orcid: X
   email: X
-  twitter: sarahjohnson
-  bluesky: 
+  twitter: X
+  bluesky: X
   github: X
 ---
 
