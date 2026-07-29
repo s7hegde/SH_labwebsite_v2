@@ -9,7 +9,7 @@ nav:
 
 The Hegde lab is situated in the Chanin Institute for Cancer Research on the campus of Albert Einstein College of Medicine. We are a proud member of the Montefiore Einstein Comprehensive Cancer Center (MECCC).
 
-Our official webpage is here: [Faculty directory](temp)
+Our official webpage is here: [Faculty directory](https://einsteinmed.edu/faculty/19921/samarth-hegde)
 
 The best way to reach Dr. Hegde is by email.
 
