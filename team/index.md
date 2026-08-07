@@ -18,12 +18,7 @@ Placeholder
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-paw" %}Mascots
-Animals
-
-{% include section.html %}
-# {% include icon.html icon="fa-solid fa-dollar-sign" %}Funders
-National Institutes of Health – National Cancer Institute
-
+Animals Placeholder
 
 {% include section.html %}
 
