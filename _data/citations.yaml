@@ -79,13 +79,6 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  image: ./images/pictures_science/2026_Science_TLS.png
-  type: article
-  tags:
-  - lung cancer
-  - spatial
-  - tissue biology
-  - transcriptomics
 - id: doi:10.1158/2326-6066.cir-25-1479
   title: "Training Tomorrow\u2019s Leaders in Cancer Immunology"
   authors:
@@ -115,7 +108,6 @@
   samarth-hegde: true
   plugin: orcid.py
   file: orcid.yaml
-  type: review
 - id: doi:10.1038/s41586-025-09493-y
   title: "Myeloid\_progenitor dysregulation fuels immunosuppressive macrophages in\
     \ tumours"
