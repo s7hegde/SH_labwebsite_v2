@@ -9,7 +9,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'mascot'" %}
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-square-up-right" %}Alumni
