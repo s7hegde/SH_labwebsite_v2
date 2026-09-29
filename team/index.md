@@ -18,7 +18,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-paw" %}Mascots
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
 
 {% include section.html %}
 
