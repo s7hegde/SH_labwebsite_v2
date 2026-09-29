@@ -8,17 +8,17 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Current Team
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-square-up-right" %}Alumni
-Placeholder
 
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-paw" %}Mascots
-Animals Placeholder
+
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 {% include section.html %}
 
