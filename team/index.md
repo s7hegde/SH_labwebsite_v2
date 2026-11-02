@@ -35,8 +35,8 @@ nav:
 {% include figure.html image="images/news and updates/20260818_lab.jpg" %}
 {% include figure.html image="images/news and updates/20260812_Studenttalks.jpg" %}
 {% include figure.html image="images/news and updates/20260911_DMBpicnic.jpg" %}
-{% include figure.html image="images/news and updates/20261031_DMBHalloween.jpeg" %}
-{% include figure.html image="images/news and updates/20261031_DMBHalloween2.jpeg" %}
+{% include figure.html image="images/news and updates/20261031_DMBHalloween.jpg" %}
+{% include figure.html image="images/news and updates/20261031_DMBHalloween2.jpg" %}
 
 {% endcapture %}
 
