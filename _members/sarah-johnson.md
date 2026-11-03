@@ -1,7 +1,7 @@
 ---
 name: Jane Doe
 image: images/photo.jpg
-description: Lead Programmer
+description: Lead Programmer (Placeholder)
 role: programmer
 links:
   orcid: X

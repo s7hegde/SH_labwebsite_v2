@@ -26,7 +26,7 @@ nav:
 
 
 {% include section.html dark=true %}
-# Inside and Outside Lab test
+# Inside and Outside Lab
 
 {% include section.html %}
 
