@@ -1,6 +1,6 @@
 ---
 title: Giving
-exclude = True
+exclude: true
 ---
 {% 
   include section.html 
