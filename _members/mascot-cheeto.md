@@ -1,6 +1,6 @@
 ---
 name: CheetoPuff
-image: images/cheeto.jpg
+image: images/team/cheeto.jpg
 description: Misanthrope
 role: mascot
 ---
