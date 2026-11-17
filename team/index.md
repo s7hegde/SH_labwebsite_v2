@@ -26,13 +26,30 @@ nav:
 {%
   include button.html
   type="Website"
+  link="https://einsteinmed.edu/departments/developmental-molecular-biology"
+  text="Developmental and Molecular Biology"
+  tooltip="Department DMB"
+  flip=true
+%}
+
+{%
+  include button.html
+  type="Website"
   link="https://montefioreeinstein.org/cancer/research/cdi"
   text="Cancer Dormancy Institute"
   tooltip="MECCC CDI"
   flip=true
-  style="bare"
 %}
 
+{%
+  include button.html
+  type="Website"
+  link="https://einsteinmed.edu/centers/stem-cell"
+  text="Institute for Stem Cell and Regenerative Medicine Research"
+  tooltip="SCI"
+  flip=true
+  style="bare"
+%}
 
 
 {% include section.html dark=true %}
