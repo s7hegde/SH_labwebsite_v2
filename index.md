@@ -108,7 +108,7 @@ We are a team of researchers from various backgrounds that want to push the fron
 
 {%
   include feature.html
-  image="images/pictures_misc/2026_team.jpg"
+  image="images/pictures_misc/2026_team2.jpg"
   link="team"
   title="Our Team"
   text=text

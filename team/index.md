@@ -48,7 +48,15 @@ nav:
   text="Institute for Stem Cell and Regenerative Medicine Research"
   tooltip="SCI"
   flip=true
-  style="bare"
+%}
+
+{%
+  include button.html
+  type="Website"
+  link="https://www.immgen.org/"
+  text="IMMGEN"
+  tooltip="Immgen"
+  flip=true
 %}
 
 
