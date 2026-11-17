@@ -37,14 +37,12 @@ All first-year Ph.D. graduate students are accepted into the [Graduate Division 
 2.	Please include a copy of your CV (filename as [your last name]_[your first name]_CV.pdf) and a cover letter stating your motivation for pursuing this opportunity, summarizing your research interests and prior experience.
 3.	Please include contact information (both email and phone number) for 2 professional references.
 
-We also welcome visiting international PhD students. Contact Dr. Hegde directly as above for more information.
-
 {%
   include section.html
   size=full
 %}
 # ARE YOU A POSTDOC OR RESEARCH TECHNICIAN APPLICANT?
-We are on the lookout for post-docs and research associates/technicians interested at the interface of cancer biology and immunology, with the career goals in academia or developing transition to biotech/industry or further schooling. If you are interested, please reach out as follows:
+We are on the lookout for post-docs and research associates/technicians interested at the interface of cancer biology and immunology, with the career goals in academia or developing transition to biotech/industry. If you are interested, please reach out as follows:
 
 1.	Email Samarth with the subject line “Post-doc/Research associate application: [your name]”.
 2.	Please include a copy of your CV (filename as [your last name]_[your first name]_CV.pdf) and a cover letter stating your motivation for pursuing this opportunity, summarizing your research interests and prior experience.

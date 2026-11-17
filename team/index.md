@@ -22,7 +22,17 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-chart-gantt" %}Gantt
+# {% include icon.html icon="fa-solid fa-chart-gantt" %}Network
+{%
+  include button.html
+  type="Website"
+  link="https://montefioreeinstein.org/cancer/research/cdi"
+  text="Cancer Dormancy Institute"
+  tooltip="MECCC CDI"
+  flip=true
+  style="bare"
+%}
+
 
 
 {% include section.html dark=true %}
